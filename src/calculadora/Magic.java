@@ -2,7 +2,7 @@ package calculadora;
 
 public class Magic {
 	public static void main(String[] args) {
-int myNumber = 31333;
+int myNumber = 3333;
 		/*We will refer to myNumber as the original number from now on - it might be helpful to document this.*/
 int stepOne = myNumber*myNumber;
 int stepTwo = myNumber+stepOne;
